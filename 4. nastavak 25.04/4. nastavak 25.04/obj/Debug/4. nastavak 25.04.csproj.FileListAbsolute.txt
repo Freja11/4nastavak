@@ -1,0 +1,6 @@
+c:\users\ab\documents\visual studio 2013\Projects\4. nastavak 25.04\4. nastavak 25.04\bin\Debug\_4.nastavak_25._04.exe.config
+c:\users\ab\documents\visual studio 2013\Projects\4. nastavak 25.04\4. nastavak 25.04\obj\Debug\4. nastavak 25.04.csprojResolveAssemblyReference.cache
+c:\users\ab\documents\visual studio 2013\Projects\4. nastavak 25.04\4. nastavak 25.04\bin\Debug\_4.nastavak_25._04.exe
+c:\users\ab\documents\visual studio 2013\Projects\4. nastavak 25.04\4. nastavak 25.04\bin\Debug\_4.nastavak_25._04.pdb
+c:\users\ab\documents\visual studio 2013\Projects\4. nastavak 25.04\4. nastavak 25.04\obj\Debug\_4.nastavak_25._04.exe
+c:\users\ab\documents\visual studio 2013\Projects\4. nastavak 25.04\4. nastavak 25.04\obj\Debug\_4.nastavak_25._04.pdb
